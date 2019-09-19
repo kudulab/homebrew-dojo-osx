@@ -7,6 +7,6 @@ class Dojo < Formula
   bottle :unneeded
 
   def install
-    bin.install "dojo"
+    bin.install "dojo_darwin_amd64"
   end
 end
