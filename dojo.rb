@@ -1,9 +1,9 @@
 class Dojo < Formula
   desc "Containerize your development and operations environment"
   homepage "https://github.com/kudulab/dojo"
-  url "https://github.com/kudulab/dojo/releases/download/0.7.0/dojo_darwin_amd64"
-  sha256 "76aebcbda4cd24cad484fa0893d1e7c115743556676f06defc3851d0a423b512"
-  version "0.7.0"
+  url "https://github.com/kudulab/dojo/releases/download/0.8.0/dojo_darwin_amd64"
+  sha256 "64b9f38923e2e548f3a9a43e7b934aa32aabda94d1910234319b8f3875f0eee9"
+  version "0.8.0"
 
   bottle :unneeded
 
