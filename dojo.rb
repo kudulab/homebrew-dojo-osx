@@ -2,7 +2,6 @@ class Dojo < Formula
   desc "Containerize your development and operations environment"
   homepage "https://github.com/kudulab/dojo"
   version "0.10.5"
-  bottle :unneeded
 
 if OS.mac?
     url "https://github.com/kudulab/dojo/releases/download/0.10.5/dojo_darwin_amd64"
